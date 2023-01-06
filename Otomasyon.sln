@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otomasyon", "Otomasyon\Otomasyon.csproj", "{AF5CF239-B999-4425-9C7D-083981447005}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Personel Takip Otomasyonu Setup", "Personel Takip Otomasyonu Setup\Personel Takip Otomasyonu Setup.vdproj", "{FEA7FB17-3F83-48BC-991F-1E4A87EDA9AF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup100", "Setup100\Setup100.vdproj", "{6A669ADF-4DA4-4C74-BDBA-4101D686F483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF5CF239-B999-4425-9C7D-083981447005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5CF239-B999-4425-9C7D-083981447005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5CF239-B999-4425-9C7D-083981447005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5CF239-B999-4425-9C7D-083981447005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA7FB17-3F83-48BC-991F-1E4A87EDA9AF}.Debug|Any CPU.ActiveCfg = Debug
+		{FEA7FB17-3F83-48BC-991F-1E4A87EDA9AF}.Release|Any CPU.ActiveCfg = Release
+		{6A669ADF-4DA4-4C74-BDBA-4101D686F483}.Debug|Any CPU.ActiveCfg = Debug
+		{6A669ADF-4DA4-4C74-BDBA-4101D686F483}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C78B964D-CC9E-4D72-B4E9-1F5FF412AB06}
+	EndGlobalSection
+EndGlobal
